@@ -39,6 +39,15 @@ A brief description of Project 2.
 ### [Project 3](https://github.com/muhammadsami987123/word_counter)
 A brief description of Project 3.
 
+### [Project 4](https://github.com/muhammadsami987123/number-guessing-game)
+A brief description of Project 4.
+
+### [Project 5](https://github.com/muhammadsami987123/Currency-Converter)
+A brief description of Project 5.
+
+### [Project 6](https://github.com/muhammadsami987123/Simple-calculator)
+A brief description of Project 6.
+MY SO MANY PROJECT IS DO DONE , YOU SEE MY GITHUB PROFILE
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
