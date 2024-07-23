@@ -1,6 +1,6 @@
 # Hi there, I'm Sami! 👋
 
-![Profile views](https://github.com/muhammadsami987123) 
+![Profile views](https://www.github.com/~muhammadsami987123) 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadsami987123?label=Follow&style=social)](https://github.com/muhammadsami987123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
