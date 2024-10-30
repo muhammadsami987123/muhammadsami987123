@@ -1,6 +1,4 @@
 # Hi there, I'm Sami! 👋
-
-![Profile views](https://www.github.com/~muhammadsami987123) 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadsami987123?label=Follow&style=social)](https://github.com/muhammadsami987123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 
@@ -9,7 +7,7 @@ I am a passionate developer with a keen interest in TypeScript, JavaScript, and 
 - 🌱 I’m currently learning advanced TypeScript and exploring new front-end frameworks.
 - 💬 Ask me about TypeScript, React, or any web development topic.
 - 📫 How to reach me: [Email]([Send me an email with a subject](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)
-) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+) | [LinkedIn](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 - ⚡ Fun fact: I love to read about new technologies and play chess.
 
 ## 🛠️ Languages and Tools
