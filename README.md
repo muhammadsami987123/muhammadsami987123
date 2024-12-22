@@ -1,60 +1,57 @@
-rom# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sami! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=green)
+[![GitHub followers](https://img.shields.io/github/followers/muhammadsami987123?label=Follow&style=social)](https://github.com/muhammadsami987123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 
-## 🚀 About Me
+I am a passionate developer with a keen interest in TypeScript, JavaScript, and web development. I love creating projects that solve real-world problems and enhance user experiences.
 
-I am a **[Your Profession/Title, e.g., Software Engineer, Frontend Developer]** with a passion for creating scalable, efficient, and user-friendly solutions. I specialize in:
+- 🌱 I’m currently learning advanced TypeScript and exploring new front-end frameworks.
+- 💬 Ask me about TypeScript, React, or any web development topic.
+- 📫 How to reach me: [Email](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)
+) | [LinkedIn](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
+- ⚡ Fun fact: I love to read about new technologies and play chess.
 
-- 🌐 Web Development (React, Next.js, Node.js)
-- 🛠️ Backend Development (Express, MongoDB, SQL)
-- 📱 Mobile Development (React Native)
-- 🧠 Machine Learning / AI (Python, TensorFlow)
-- 💡 Open Source Contributor
+## 🛠️ Languages and Tools
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🌟 My Skills
+## 📈 GitHub Stats
 
-- **Languages:** JavaScript (ES6+), Python, TypeScript
-- **Frontend:** HTML, CSS, Tailwind, Material-UI, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Vercel, Netlify
-- **Others:** Agile/Scrum, CI/CD, Unit Testing
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsami987123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsami987123&layout=compact&theme=radical)
+[![Sami's Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadsami987123&theme=radical)](https://github.com/muhammadsami987123)
 
----
+## 📂 Projects
 
-## 🛠️ My Projects
+Here are some of my notable projects:
 
-### [Project Name 1](https://github.com/yourusername/project1)
-- **Description:** A brief overview of the project, its purpose, and technologies used.
-- **Tech Stack:** React, Node.js, MongoDB
+### [Project 1](https://github.com/muhammadsami987123/adventure-game)
+A brief description of Project 1. 
 
-### [Project Name 2](https://github.com/yourusername/project2)
-- **Description:** A brief overview of the project, its purpose, and technologies used.
-- **Tech Stack:** Next.js, TailwindCSS, Firebase
+### [Project 2](https://github.com/muhammadsami987123/ATM-Machine)
+A brief description of Project 2.
 
----
+### [Project 3](https://github.com/muhammadsami987123/word_counter)
+A brief description of Project 3.
 
-## 📊 GitHub Stats
+### [Project 4](https://github.com/muhammadsami987123/number-guessing-game)
+A brief description of Project 4.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### [Project 5](https://github.com/muhammadsami987123/Currency-Converter)
+A brief description of Project 5.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### [Project 6](https://github.com/muhammadsami987123/Simple-calculator)
+A brief description of Project 6.
+MY SO MANY PROJECT IS DO DONE , YOU SEE MY GITHUB PROFILE
 
----
+## 🌐 Connect with Me
 
-## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.samiwaseem1234@gmail.com)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 📧 [Email](mailto:yourname@example.com)
-
----
-
-### 🎯 Fun Facts
-
-- 🌱 Currently learning [e.g., TypeScript, GraphQL]
-- 📖 Favorite Tech Book: [Your Favorite Book]
-- 🎮 Gaming Enthusiast / Outdoor Explorer
+Thanks for visiting my profile! 😊
