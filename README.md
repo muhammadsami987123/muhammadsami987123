@@ -8,7 +8,6 @@ I am a passionate developer with a keen interest in TypeScript, JavaScript, and 
 - 🌱 I’m currently learning advanced TypeScript and exploring new front-end frameworks.
 - 💬 Ask me about TypeScript, React, or any web development topic.
 - 📫 How to reach me: [Email](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)
-) | [LinkedIn](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 - ⚡ Fun fact: I love to read about new technologies and play chess.
 
 ## 🛠️ Languages and Tools
@@ -30,24 +29,31 @@ I am a passionate developer with a keen interest in TypeScript, JavaScript, and 
 
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/muhammadsami987123/adventure-game)
+### [Live Projects on Vercel](https://hackthone-two.vercel.app/) 
+### [Live Projects on Vercel](https://paneclounds.vercel.app/)
+### [Live Projects on Vercel](https://todo-app2-rho.vercel.app/) 
+
+Check out my deployed projects live on Vercel!
+
+### [Project 1](https://github.com/muhammadsami987123/Hackathon-E-Commer-website)
 A brief description of Project 1. 
 
-### [Project 2](https://github.com/muhammadsami987123/ATM-Machine)
+### [Project 2](https://github.com/muhammadsami987123/Pana-CLoud)
 A brief description of Project 2.
 
-### [Project 3](https://github.com/muhammadsami987123/word_counter)
+### [Project 3](https://github.com/muhammadsami987123/Todo-app)
 A brief description of Project 3.
 
-### [Project 4](https://github.com/muhammadsami987123/number-guessing-game)
+### [Project 4](https://github.com/muhammadsami987123/E-Commerce)
 A brief description of Project 4.
 
-### [Project 5](https://github.com/muhammadsami987123/Currency-Converter)
+### [Project 5](https://github.com/muhammadsami987123/SellMyRide2)
 A brief description of Project 5.
 
-### [Project 6](https://github.com/muhammadsami987123/Simple-calculator)
+### [Project 6](https://github.com/muhammadsami987123/My-Portfolio-2)
 A brief description of Project 6.
-MY SO MANY PROJECT IS DO DONE , YOU SEE MY GITHUB PROFILE
+
+Explore more of my work on [GitHub](https://github.com/muhammadsami987123)!
 
 ## 🌐 Connect with Me
 
