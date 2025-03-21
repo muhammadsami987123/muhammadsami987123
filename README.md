@@ -36,24 +36,21 @@ Here are some of my notable projects:
 
 Check out my deployed projects live on Vercel!
 
-### [Project 1](https://github.com/muhammadsami987123/Hackathon-E-Commer-website)
-A brief description of Project 1. 
 
-### [Project 2](https://github.com/muhammadsami987123/Pana-CLoud)
-A brief description of Project 2.
+### [📌 Live: My Portfolio](https://portfolio-sami-phi.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/muhammadsami987123/Portfolio-with-Next.js)  
 
-### [Project 3](https://github.com/muhammadsami987123/Todo-app)
-A brief description of Project 3.
+### [📌 Live: E-Commerce Website](https://hackthone-two.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/muhammadsami987123/Marketplace-Hackathon-2025)  
 
-### [Project 4](https://github.com/muhammadsami987123/E-Commerce)
-A brief description of Project 4.
+### [📌 Live: ChatBot](https://chat-bot-using-next-js.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/muhammadsami987123/ChatBot-using-next.js)  
 
-### [Project 5](https://github.com/muhammadsami987123/SellMyRide2)
-A brief description of Project 5.
+### [📌 Live:Blog Website](https://blogwebsite-gray.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/muhammadsami987123/Blog-website)  
 
-### [Project 6](https://github.com/muhammadsami987123/My-Portfolio-2)
-A brief description of Project 6.
-
+### [📌 Live: Todo Task Manager](https://todo-app2-rho.vercel.app/)  
+🔗 [GitHub Repo](https://github.com/muhammadsami987123/Todo-app)  
 Explore more of my work on [GitHub](https://github.com/muhammadsami987123)!
 
 ## 🌐 Connect with Me
