@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadsami987123?label=Follow&style=social)](https://github.com/muhammadsami987123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-sami-phi.vercel.app/)
 
 I am a passionate developer with a keen interest in TypeScript, JavaScript, and web development. I love creating projects that solve real-world problems and enhance user experiences.
 
