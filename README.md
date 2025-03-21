@@ -4,12 +4,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-sami-phi.vercel.app/)
 
-I am a passionate developer with a keen interest in TypeScript, JavaScript, and web development. I love creating projects that solve real-world problems and enhance user experiences.
+I am a dedicated **full-stack developer** with expertise in **TypeScript, JavaScript, and modern web technologies**. I love building **scalable, efficient, and AI-powered applications** that enhance user experiences and solve real-world challenges.
 
-- 🌱 I’m currently learning advanced TypeScript and exploring new front-end frameworks.
-- 💬 Ask me about TypeScript, React, or any web development topic.
-- 📫 How to reach me: [Email](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)
-- ⚡ Fun fact: I love to read about new technologies and play chess.
+- 🚀 Currently exploring **AI-driven web development**, **Next.js 14**, and **Edge Functions** for high-performance applications.  
+- 💡 Passionate about **Cloud Computing, Web3, and the Metaverse**, integrating AI with front-end frameworks.  
+- 🌱 Improving my **TypeScript, Next.js, and Python** skills while working on innovative projects.  
+- 💬 Open to discussions on **React, Next.js, TypeScript, AI-powered automation, and Web3 development**.  
+- 🏆 Participated in **hackathons** and built multiple real-world applications.  
+- 📫 Let's connect: [Email](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)  
+- ⚡ Fun fact: I enjoy solving **coding challenges**, exploring **new technologies**, and playing **chess** in my free time.  
+
 
 ## 🛠️ Languages and Tools
 
