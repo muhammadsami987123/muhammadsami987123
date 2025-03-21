@@ -28,15 +28,6 @@ I am a passionate developer with a keen interest in TypeScript, JavaScript, and 
 
 ## 📂 Projects
 
-Here are some of my notable projects:
-
-### [Live Projects on Vercel](https://hackthone-two.vercel.app/) 
-### [Live Projects on Vercel](https://paneclounds.vercel.app/)
-### [Live Projects on Vercel](https://todo-app2-rho.vercel.app/) 
-
-Check out my deployed projects live on Vercel!
-
-
 ### [📌 Live: My Portfolio](https://portfolio-sami-phi.vercel.app/)  
 🔗 [GitHub Repo](https://github.com/muhammadsami987123/Portfolio-with-Next.js)  
 
