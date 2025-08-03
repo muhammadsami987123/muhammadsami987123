@@ -1,6 +1,7 @@
 # Muhammad Sami Asghar Mughal | Full-Stack Developer & AI Enthusiast 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammadsami987123?label=Follow&style=social)](https://github.com/muhammadsami987123)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-500%2B-success?style=flat&logo=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-sami-phi.vercel.app/)
 
