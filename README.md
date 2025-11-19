@@ -80,8 +80,8 @@ Here are some of my **latest projects** showcasing my expertise:
 
 ## 🌐 **Let's Connect**
 📩 **Email:** [m.samiwaseem1234@gmail.com](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20there)  
-🔗 **LinkedIn:** [Muhammad Sami Asghar Mughal](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)  
-🌍 **Portfolio:** [portfolio-sami-phi.vercel.app](https://portfolio-sami-phi.vercel.app/)  
+🔗 **LinkedIn:** [Muhammad Sami](https://www.linkedin.com/in/muhammad-sami-3aa6102b8/)  
+🌍 **Portfolio:** [https://muhammad-sami.vercel.app/](https://muhammad-sami.vercel.app/)  
 
 🚀 **Follow me for more updates and projects!**
 
