@@ -19,7 +19,6 @@
 - 💼 **E-Commerce Expert:** Developed **7+ e-commerce platforms** with Stripe & ShipEngine integration, driving client sales and streamlining logistics
 - 🎯 **Mission-Driven:** Led a winter drive in Karachi (2025), distributing warm clothes to underserved communities – I believe technology should serve people
 - 📍 **Location:** Karachi, Sindh, Pakistan
-- 📞 **Phone:** [+92 347 7286878](tel:+923477286878)
 - 📩 **Email:** [m.samiwaseem1234@gmail.com](mailto:m.samiwaseem1234@gmail.com?subject=Hello%20from%20GitHub)
 
 ---
@@ -272,8 +271,7 @@ Specialized online store for electronic products
 
 <div align="center">
 
-### 📞 **Direct Contact**
-**Phone:** [+92 347 7286878](tel:+923477286878)  
+### 📞 **Direct Contact** 
 **Email:** [m.samiwaseem1234@gmail.com](mailto:m.samiwaseem1234@gmail.com)  
 **Location:** Karachi, Sindh, Pakistan 🇵🇰
 
