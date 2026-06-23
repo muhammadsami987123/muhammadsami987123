@@ -220,7 +220,7 @@ Real-time computer vision application for hand tracking and gesture recognition.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsami987123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsami987123&show_icons=true&theme=tokyonight&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsami987123&layout=compact&theme=tokyonight&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsami987123&theme=tokyonight" />
