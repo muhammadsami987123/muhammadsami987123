@@ -2,7 +2,7 @@
 
 <img src="./band.png" alt="Muhammad Sami Asghar Mughal" width="100%" />
 
-# Muhammad Sami Asghar Mughal
+# Muhammad Sami Asghar Mughal 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer;Full+Stack+Developer;Founder+%40+Marsa+Empower;Building+Intelligent+Systems)](https://github.com/muhammadsami987123)
 
