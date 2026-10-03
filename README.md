@@ -4,7 +4,7 @@
 
 # Muhammad Sami Asghar Mughal 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer;Full+Stack+Developer;Founder+%40+Marsa+Empower;Building+Intelligent+Systems)](https://github.com/muhammadsami987123)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Forward+Deployed+Engineer;AI+Agent+Engineer;Full+Stack+Developer;Founder+%40+Marsa+Empower;Building+Intelligent+Systems)](https://github.com/muhammadsami987123)
 
 **Karachi, Pakistan** &nbsp;•&nbsp; *Building AI Agents, Automation Systems, and Scalable Products*
 
@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm an **AI Agent Engineer** and **Full Stack Developer** focused on building intelligent systems that solve real-world problems. I architect agentic AI workflows, multi-agent systems, and modern web platforms — turning ideas into production-grade products.
+I'm an **Forward Deployed Engineer** , **AI Agent Engineer** and **Full Stack Developer** focused on building intelligent systems that solve real-world problems. I architect agentic AI workflows, multi-agent systems, and modern web platforms — turning ideas into production-grade products.
 
 - **Founder** of [Marsa Empower](https://marsaempower.com) — an AI-powered women's health ecosystem
 - **Founder** of CodePulse Innovations — product engineering & SaaS development
